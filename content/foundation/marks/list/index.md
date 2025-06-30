@@ -140,7 +140,21 @@ or see other common law trademarks by letter:
         </li>
       </ul>
     </div>
-    <div class="panel panel-primary" id="apache">
+    <div class="panel panel-primary" id="activemq">
+      <div class="panel-heading">
+        <h3 class="panel-title"><a href="http://activemq.apache.org/">Apache Airflow</a>® software</h3>
+      </div>
+      <div class="panel-body">
+              The ASF owns the following registered trademarks for our Apache Airflow® software:
+      </div>
+      <ul class="list-group">
+        <li class="list-group-item active">Airflow ®</li>
+        <li class="list-group-item">
+          <a href="https://tsdr.uspto.gov/#amp%3BcaseSearchType=US_APPLICATION&amp%3BcaseType=DEFAULT&amp%3BsearchType=statusSearch&caseNumber=7,442,956&caseSearchType=US_APPLICATION&caseType=DEFAULT&searchType=statusSearch">In the United States of America, class 9, reg # 7,442,956</a>
+        </li>
+      </ul>
+    </div>
+   <div class="panel panel-primary" id="apache">
       <div class="panel-heading">
         <h3 class="panel-title">
                 Our APACHE® trademarks
